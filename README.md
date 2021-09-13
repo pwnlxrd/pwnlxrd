@@ -2,7 +2,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnlxrd&layout=compact&theme=onedark)](https://github.com/pwnlxrd)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pwnlxrd&layout=compact)](https://github.com/pwnlxrd)
-
 
 ![Profile views](https://gpvc.arturio.dev/pwnlxrd)
