@@ -2,9 +2,9 @@ This profile mirror from my main git: git.pwndev.com
   
 ![Profile views](https://gpvc.arturio.dev/pwnlxrd) 
   
-![Website](https://shields.pwndev.com:/website?label=pwndev.com&style=for-the-badge&url=https%3A%2F%2Fpwndev.com)
-![Website](https://shields.pwndev.com:/website?label=git.pwndev.com&style=for-the-badge&url=https%3A%2F%2Fpwndev.com)
-![Website](https://shields.pwndev.com:/website?label=shields.pwndev.com&style=for-the-badge&url=https%3A%2F%2Fshields.pwndev.com)
+![Website](https://shields.pwndev.com:/website?label=pwndev.com&style=for-the-badge&url=https%3A%2F%2Fpwndev.com)  
+![Website](https://shields.pwndev.com:/website?label=git.pwndev.com&style=for-the-badge&url=https%3A%2F%2Fpwndev.com)  
+![Website](https://shields.pwndev.com:/website?label=shields.pwndev.com&style=for-the-badge&url=https%3A%2F%2Fshields.pwndev.com)  
 
   
 Builds status:  
