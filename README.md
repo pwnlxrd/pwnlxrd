@@ -1,8 +1,17 @@
 This profile mirror from my main git: git.pwndev.com  
+  
+![Profile views](https://gpvc.arturio.dev/pwnlxrd) 
+  
+![Website](https://shields.pwndev.com:/website?label=pwndev.com&style=for-the-badge&url=https%3A%2F%2Fpwndev.com)
+![Website](https://shields.pwndev.com:/website?label=git.pwndev.com&style=for-the-badge&url=https%3A%2F%2Fpwndev.com)
+![Website](https://shields.pwndev.com:/website?label=shields.pwndev.com&style=for-the-badge&url=https%3A%2F%2Fshields.pwndev.com)
+
+  
 Builds status:  
 citadel: [![Build Status](https://drone.pwndev.com/api/badges/pwnlxrd/Citadel/status.svg)](https://drone.pwndev.com/pwnlxrd/Citadel)  
 ansible: [![Build Status](https://drone.pwndev.com/api/badges/Pantheon/ansible/status.svg)](https://drone.pwndev.com/Pantheon/ansible)  
-![Profile views](https://gpvc.arturio.dev/pwnlxrd)  
+  
+   
 
 <!-- ![pwnlxrd GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=pwnlxrd&theme=react&border=61dafb&hide_border=true)
 
